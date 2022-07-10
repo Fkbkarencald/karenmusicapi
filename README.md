@@ -1,2 +1,2 @@
 # Karen Music API
-Api for Karen Music Application
+API for Karen Music Application
